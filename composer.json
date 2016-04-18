@@ -1,0 +1,11 @@
+{
+	"name": "functions-less",
+	"description": "LESS Functions CSS3",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Sidnei Rodrigues",
+			"email": "sidnei131@hotmail.com"
+		}
+	]
+}
